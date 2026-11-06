@@ -4,6 +4,12 @@
 
 [Click here to Open Task Manager Application]https://taskmanagerapp-hof4cxwrq-neelakanthecejvm-7380.vercel.app/
 
+## 📱 Download Android APK
+
+[⬇️ Download Task Manager APK](https://expo.dev/accounts/neelakanth/projects/TaskManagerApp/builds/b707e465-2bf0-455c-9df6-c469edec4f31)
+
+Click the link above to download and install the Android application.
+
 ## Project Overview
 
 This is a Task Management application developed using React Native and Expo as part of a React Native Developer Technical Assessment.
